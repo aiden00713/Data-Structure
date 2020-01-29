@@ -2,6 +2,7 @@
 ----
 
 <img src="https://github.com/aiden00713/Data-Structure/blob/master/matrix/question.png?raw=true" style="zoom:80%" />
+
 ----
 
 |Sample Input   |Sample Output |
