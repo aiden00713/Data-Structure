@@ -1,7 +1,7 @@
 ## 迴文對稱矩陣檢查
 ----
 
-<img src="https://github.com/aiden00713/Data-Structure/blob/master/matrix/question.png" style="zoom:-50%" />
+<img src="https://github.com/aiden00713/Data-Structure/blob/master/matrix/question.png" style="zoom:10%" />
 
 ----
 
